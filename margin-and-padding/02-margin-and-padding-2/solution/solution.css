@@ -58,5 +58,6 @@ We separated it out here to make it extra clear what has changed. */
 button {
   display: block;
   margin: 0 auto;
+  height: auto;
   padding: 8px 24px;
 }
